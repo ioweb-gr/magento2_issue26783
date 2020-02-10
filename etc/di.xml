@@ -7,6 +7,7 @@
         <arguments>
             <argument name="commands" xsi:type="array">
                 <item name="iowebsample:updateoption" xsi:type="object">Ioweb\GithubSample\Console\Command\UpdateOptionCommand</item>
+                <item name="iowebsample:updateoption2" xsi:type="object">Ioweb\GithubSample\Console\Command\UpdateOption2Command</item>
             </argument>
         </arguments>
     </type>
